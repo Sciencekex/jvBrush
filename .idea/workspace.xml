@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6efcf5-5399-4c7b-83b6-4579ac49360b" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/labuladong/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution70.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvBrush.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jvBrush.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.py垃圾之处.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.py垃圾之处.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +121,7 @@
       <workItem from="1740491985650" duration="11000" />
       <workItem from="1740990641999" duration="768000" />
       <workItem from="1741416403797" duration="356000" />
-      <workItem from="1741416772535" duration="3487000" />
+      <workItem from="1741416772535" duration="4083000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <option name="closed" value="true" />

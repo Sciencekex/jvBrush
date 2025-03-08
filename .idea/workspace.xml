@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6efcf5-5399-4c7b-83b6-4579ac49360b" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvBrush.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution1.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyBrush.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarsByte/49.红包运气排行榜.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +61,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin 脚本(测试版).49.红包运气排行榜.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution1.kts.executor": "Run",
     "Python.0.py垃圾之处.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -127,7 +121,7 @@
       <workItem from="1740491985650" duration="11000" />
       <workItem from="1740990641999" duration="768000" />
       <workItem from="1741416403797" duration="356000" />
-      <workItem from="1741416772535" duration="111000" />
+      <workItem from="1741416772535" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <option name="closed" value="true" />

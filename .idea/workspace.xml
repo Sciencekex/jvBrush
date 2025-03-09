@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6efcf5-5399-4c7b-83b6-4579ac49360b" name="更改" comment="更改">
+      <change afterPath="$PROJECT_DIR$/src/Solution46.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution78.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,38 +52,42 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2tDXSiIF2ZDECqc6PrB6wp44akT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin 脚本(测试版).49.红包运气排行榜.kts.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin 脚本(测试版).Solution1.kts.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin 脚本(测试版).Solution226.kts.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin 脚本(测试版).Solution283.kts.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin 脚本(测试版).Solution461.kts.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin 脚本(测试版).Solution70.kts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.0.py垃圾之处.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/A_kali_shared/_code/jvBrush&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2505747&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin 脚本(测试版).49.红包运气排行榜.kts.executor": "Run",
+    "Kotlin 脚本(测试版).Solution1.kts.executor": "Run",
+    "Kotlin 脚本(测试版).Solution226.kts.executor": "Run",
+    "Kotlin 脚本(测试版).Solution283.kts.executor": "Debug",
+    "Kotlin 脚本(测试版).Solution46.kts.executor": "Run",
+    "Kotlin 脚本(测试版).Solution461.kts.executor": "Run",
+    "Kotlin 脚本(测试版).Solution70.kts.executor": "Run",
+    "Kotlin 脚本(测试版).Solution78.kts.executor": "Run",
+    "Python.0.py垃圾之处.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/A_kali_shared/_code/jvBrush",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.2505747",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\A_kali_shared\_code\pyBrush\MarsByte" />
@@ -129,6 +135,7 @@
       <workItem from="1741432237543" duration="2058000" />
       <workItem from="1741440847329" duration="903000" />
       <workItem from="1741441785045" duration="63000" />
+      <workItem from="1741494447193" duration="4125000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <option name="closed" value="true" />

@@ -37,5 +37,14 @@
 //仅存在一个有效答案
 
 fun twoSum(numbers: IntArray, target: Int): IntArray {
-    
+    val arrayLength = numbers.size - 1
+    for (i in 0..arrayLength) {
+        for (j in 0 until i) {
+            if (numbers[i] + numbers[j] == target) {
+                val array = intArrayOf(j + 1, i + 1)
+                return array
+            }
+        }
+    }
+    throw IllegalArgumentException("No two sum solution")
 }

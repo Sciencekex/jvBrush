@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6efcf5-5399-4c7b-83b6-4579ac49360b" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/LeetBook/Solution118.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetBook/Solution119.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetBook/Solution557.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +74,7 @@
     "Kotlin 脚本(测试版).Solution46.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution461.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution485.kts.executor": "Debug",
+    "Kotlin 脚本(测试版).Solution557.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution561.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution70.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution78.kts.executor": "Run",
@@ -151,7 +150,7 @@
       <workItem from="1741758788493" duration="83000" />
       <workItem from="1741758881171" duration="11000" />
       <workItem from="1741759042362" duration="195000" />
-      <workItem from="1741759249229" duration="2360000" />
+      <workItem from="1741759249229" duration="2777000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <option name="closed" value="true" />

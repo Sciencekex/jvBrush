@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6efcf5-5399-4c7b-83b6-4579ac49360b" name="更改" comment="更改">
+      <change afterPath="$PROJECT_DIR$/LeetBook/Solution118.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetBook/Solution119.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetBook/Solution209.kts" beforeDir="false" afterPath="$PROJECT_DIR$/LeetBook/Solution209.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,8 @@
   "keyToString": {
     "Kotlin 脚本(测试版).49.红包运气排行榜.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution1.kts.executor": "Run",
+    "Kotlin 脚本(测试版).Solution118.kts.executor": "Run",
+    "Kotlin 脚本(测试版).Solution119.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution209.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution226.kts.executor": "Run",
     "Kotlin 脚本(测试版).Solution283.kts.executor": "Debug",
@@ -144,6 +148,10 @@
       <workItem from="1741599859417" duration="2743000" />
       <workItem from="1741609566708" duration="1557000" />
       <workItem from="1741675705628" duration="3326000" />
+      <workItem from="1741758788493" duration="83000" />
+      <workItem from="1741758881171" duration="11000" />
+      <workItem from="1741759042362" duration="195000" />
+      <workItem from="1741759249229" duration="2360000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <option name="closed" value="true" />

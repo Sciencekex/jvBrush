@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6efcf5-5399-4c7b-83b6-4579ac49360b" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/SnakeGame.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random1t/Solution2109.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvBrush.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jvBrush.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsByte/35.小S的倒排索引.java" beforeDir="false" afterPath="$PROJECT_DIR$/MarsByte/35.小S的倒排索引.jav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsByte/49.红包运气排行榜.java" beforeDir="false" afterPath="$PROJECT_DIR$/MarsByte/49.红包运气排行榜.jav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MarsByte/5.寻找最大葫芦.java" beforeDir="false" afterPath="$PROJECT_DIR$/MarsByte/5.寻找最大葫芦.jav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Canvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Canvas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Companion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Food.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Snake$WhenMappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Snake$WhenMappings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Snake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +34,8 @@
         <option value="Python Script" />
         <option value="tsconfig.json" />
         <option value="Kotlin Worksheet" />
-        <option value="Kotlin Script" />
         <option value="Kotlin File" />
+        <option value="Kotlin Script" />
       </list>
     </option>
   </component>
@@ -65,43 +78,44 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin 脚本(测试版).49.红包运气排行榜.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution1.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution118.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution119.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution153.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution202.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution209.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution226.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution26.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution283.kts.executor": "Debug",
-    "Kotlin 脚本(测试版).Solution46.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution461.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution485.kts.executor": "Debug",
-    "Kotlin 脚本(测试版).Solution557.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution561.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution70.kts.executor": "Run",
-    "Kotlin 脚本(测试版).Solution78.kts.executor": "Run",
-    "Kotlin.SnakeGame.executor": "Run",
-    "Python.0.py垃圾之处.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/A_kali_shared/_code/jvBrush",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.15429688",
-    "project.structure.side.proportion": "0.2505747",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin 脚本(测试版).49.红包运气排行榜.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution1.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution118.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution119.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution153.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution202.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution209.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution2109.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution226.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution26.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution283.kts.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin 脚本(测试版).Solution46.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution461.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution485.kts.executor&quot;: &quot;Debug&quot;,
+    &quot;Kotlin 脚本(测试版).Solution557.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution561.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution70.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution78.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.SnakeGame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.0.py垃圾之处.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/A_kali_shared/_code/jvBrush&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15429688&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2505747&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.kotlinCompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\A_kali_shared\_code\pyBrush\MarsByte" />
@@ -114,6 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution2109.kts" type="KotlinStandaloneScriptRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="pyBrush" />
+      <option name="filePath" value="$PROJECT_DIR$/Random1t/Solution2109.kts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <module name="pyBrush" />
       <option name="filePath" />
@@ -121,6 +142,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin 脚本(测试版).Solution2109.kts" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -163,6 +189,8 @@
       <workItem from="1742124882066" duration="73000" />
       <workItem from="1742125160218" duration="1569000" />
       <workItem from="1742392357224" duration="548000" />
+      <workItem from="1743344031499" duration="2735000" />
+      <workItem from="1743495767719" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <option name="closed" value="true" />

@@ -5,23 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6efcf5-5399-4c7b-83b6-4579ac49360b" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/Random1t/Solution2109.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution2269.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution3375.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution3396.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarsByte/35.小S的倒排索引.java" beforeDir="false" afterPath="$PROJECT_DIR$/MarsByte/35.小S的倒排索引.jav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarsByte/49.红包运气排行榜.java" beforeDir="false" afterPath="$PROJECT_DIR$/MarsByte/49.红包运气排行榜.jav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MarsByte/5.寻找最大葫芦.java" beforeDir="false" afterPath="$PROJECT_DIR$/MarsByte/5.寻找最大葫芦.jav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Canvas.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Canvas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Direction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Food.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Food.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Snake$WhenMappings.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Snake$WhenMappings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Snake.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame$Snake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/OutPut/production/jvBrush/SnakeGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random1t/Solution2109.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Daily1t/Solution2109.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +77,7 @@
     &quot;Kotlin 脚本(测试版).Solution209.kts.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin 脚本(测试版).Solution2109.kts.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin 脚本(测试版).Solution226.kts.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin 脚本(测试版).Solution2269.kts.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin 脚本(测试版).Solution26.kts.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin 脚本(测试版).Solution283.kts.executor&quot;: &quot;Debug&quot;,
     &quot;Kotlin 脚本(测试版).Solution46.kts.executor&quot;: &quot;Run&quot;,
@@ -191,6 +180,8 @@
       <workItem from="1742392357224" duration="548000" />
       <workItem from="1743344031499" duration="2735000" />
       <workItem from="1743495767719" duration="15000" />
+      <workItem from="1743499501841" duration="108000" />
+      <workItem from="1744291109344" duration="157000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <option name="closed" value="true" />

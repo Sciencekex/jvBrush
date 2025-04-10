@@ -1,4 +1,4 @@
-package Random1t
+package Daily1t
 
 fun addSpaces(s: String, spaces: IntArray): String {
     val sb = StringBuilder(s)

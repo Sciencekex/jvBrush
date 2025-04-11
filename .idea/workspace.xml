@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6efcf5-5399-4c7b-83b6-4579ac49360b" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/Daily1t/Solution2269.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Daily1t/Solution3375.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Daily1t/Solution3396.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution2843.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution3238.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution3248.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution661.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Random1t/Solution2109.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Daily1t/Solution2109.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +181,8 @@
       <workItem from="1743344031499" duration="2735000" />
       <workItem from="1743495767719" duration="15000" />
       <workItem from="1743499501841" duration="108000" />
-      <workItem from="1744291109344" duration="157000" />
+      <workItem from="1744291109344" duration="795000" />
+      <workItem from="1744384529578" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <option name="closed" value="true" />

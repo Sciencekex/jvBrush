@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc6efcf5-5399-4c7b-83b6-4579ac49360b" name="更改" comment="更改">
-      <change afterPath="$PROJECT_DIR$/Daily1t/Solution1534.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution2255.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution2614.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution2643.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Daily1t/Solution3110.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +64,6 @@
     <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -181,6 +183,7 @@
       <workItem from="1744291109344" duration="795000" />
       <workItem from="1744384529578" duration="120000" />
       <workItem from="1744638143241" duration="84000" />
+      <workItem from="1744808083287" duration="193000" />
     </task>
     <task id="LOCAL-00001" summary="更改">
       <option name="closed" value="true" />
